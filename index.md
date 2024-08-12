@@ -71,6 +71,8 @@ layout: page
 <div style="text-align: justify">
 
 ATROPOS is one of the greek godness which is cutting with a scissor the life thread of Humans. We like to give users a free of charge tool set to analyze their deployed solution stacks in direction to their data strategies which can be Opensource (OSS - Open Source Solutions) or others. That's the reason why we added a second S for <b>O</b>pen<b>S</b>ource<b>S</b>olutions to the name ATROPOSS. We wish all of you a happy reading.
+<br>
+By the way you can find us online under <a href="https://www.atroposs.com">ATROPOSS.com</a> as well. Please use for the english version the translation capabilities of your browser.
 
 <br>
 <br>
@@ -125,3 +127,8 @@ If you are interested in contributing to ATROPOSS, please discuss first changes 
 email, or any other method with the ATROPOSS community before making a change. Read more about becoming a contributor in our GitHub Repo <a href="https://github.com/maiksandmann/maiksandmann.github.io#contributing">here</a>.
 
 </div>
+
+
+</body>
+
+</html>

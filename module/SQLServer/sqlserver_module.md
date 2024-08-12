@@ -4,4 +4,6 @@ layout: module
 
 ---
 
-# sqlserver-module
+<br>
+<br>
+The SQLServer-module will be updated soon!
