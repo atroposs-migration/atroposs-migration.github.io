@@ -56,7 +56,7 @@ Please also review our existing <b>posts</b> in terms of news around the modules
 The following documentation gives an overview about the parsed information from the CSV output format. The column name are a little bit different in the CSV and EXCEL output. If there are any additional information you are looking for, feel free to add them including the calcualtion and open a github issue. Thanks in advance.
 <br>
 
-<object data="../pdf/AWR_module_documentation.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../pdf/awr_module_documentation.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
    
