@@ -56,7 +56,7 @@ layout: page
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-<h2 style="text-align: center;"> <a href="https://github.com/maiksandmann/maiksandmann.github.io/issues/new">Support us and create Issues & Feature enhancements here!</a></h2>
+<h2 style="text-align: center;"> <a href="https://github.com/atroposs-migration/atroposs-migration.github.io/issues/new">Support us and create Issues & Feature enhancements here!</a></h2>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
