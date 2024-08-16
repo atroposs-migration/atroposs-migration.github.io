@@ -56,7 +56,7 @@ layout: page
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-<h2 style="text-align: center;"> <a href="https://github.com/atroposs-migration/atroposs-migration.github.io/issues/new">Support us and create Issues & Feature enhancements here!</a></h2>
+<h2 style="text-align: center;"> <a href="https://github.com/maiksandmann/maiksandmann.github.io/issues/new">Support us and create Issues & Feature enhancements here or to get in contact with us!</a></h2>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -87,7 +87,11 @@ Because of the heterogeneity of the used solution stacks the first release focus
 <br>
 <br>
 
-ATROPOSS is based on webassembly with JavaScript, <b>Python</b> or <b>RUST</b> but can also integrates modules written in <b>JavaScript</b>. The application with the modules will be executed in the secure sandbox of the user's browser, so no backend is required or involved and the scalability of the overall application (a static web page in summary) is realized over the number of frotend browsers. With WASM we based on an open Webstandard, which should be executible by all known browsers. In case of any issues with your browser, please open a GitHub issue and let us know. 
+ATROPOSS is based on webassembly with JavaScript, <b>Python</b> or <b>RUST</b> but can also integrates modules written in <b>JavaScript</b>. The application with the modules will be executed in the secure sandbox of the user's browser! So, <b> no backend is required or involved and data are not leaving the laptop and browser of the user</b>. The scalability of the overall application (a static web page in summary) is realized over the number of frotend browsers. With WASM we based on an open Webstandard, which should be executible by all known browsers. 
+<br>
+<b>The created outputs of the ATROPOSS modules (csv, json or excel) can be downloaded on your file system. Please be aware that all kind of data should handle carefully and not store public. </b>
+<br>
+In case of any issues with your browser, please open a GitHub issue and let us know. 
 
 <br>
 <br>
