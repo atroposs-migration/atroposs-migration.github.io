@@ -1,3 +1,13 @@
+---
+permalink: /msma-module/
+layout: module
+
+---
+
+<br>
+<br>
+
+
 # About MicroSoft SQLServer Migration Assessment(MSMA) Module
 "The MS2PG module provides a Rough order of magnitude (ROM) of the auto conversion and the manual efforts required to migrate an MS SQL Server database to PostgreSQL. It discovers the objects, accesses them and estimates conversion rate of your MS SQL Server db to Postgres Sql db.
 When given an MS SQL Server export in the form of a ZIP archive, the module parses and subsequently assesses its SQL files. The entire process takes place solely in the browser, without using any external resources."
