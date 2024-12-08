@@ -56,7 +56,7 @@ layout: page
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-<h2 style="text-align: center;"> <a href="https://github.com/maiksandmann/maiksandmann.github.io/issues/new">Support us and create Issues & Feature enhancements here or to get in contact with us!</a></h2>
+<h2 style="text-align: center;"> <a href="https://github.com/atroposs-migration/atroposs-migration.github.io/issues/issue/new">Support us and create Issues & Feature enhancements here or to get in contact with us!</a></h2>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -132,7 +132,7 @@ To support better the community, we decided to develop ATROPOSS in an opensource
 <br>
 
 If you are interested in contributing to ATROPOSS, please discuss first changes / ideas you like to make via opening a GitHub issue,
-email, or any other method with the ATROPOSS community before making a change. Read more about becoming a contributor in our GitHub Repo <a href="https://github.com/maiksandmann/maiksandmann.github.io#contributing">here</a>.
+email, or any other method with the ATROPOSS community before making a change. Read more about becoming a contributor in our GitHub Repo <a href="https://github.com/atroposs-migration/atroposs-migration.github.io#contributing">here</a>.
 
 </div>
 
@@ -175,7 +175,7 @@ document.getElementById('issueForm').addEventListener('submit', function(event) 
     event.preventDefault();
     const title = encodeURIComponent(document.getElementById('title').value);
     const body = encodeURIComponent(document.getElementById('body').value);
-    const repo = 'maiksandmann/maiksandmann.github.io'; // Replace with your repository
+    const repo = 'atroposs-migration/atroposs-migration.github.io'; // Replace with your repository
     const url = `https://github.com/${repo}/issues/new?title=${title}&body=${body}`;
     window.location.href = url;
     });
